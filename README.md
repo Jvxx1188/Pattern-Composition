@@ -1,0 +1,1 @@
+# Codigo que eu criei para treinar Pattern Composition
